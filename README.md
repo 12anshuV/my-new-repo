@@ -1,2 +1,2 @@
-# my-new-repo
-connecting vs code to github
+# Quantum Chemistry Project 
+Ref: Computational Physical Chemistry by Joschua Schrier
